@@ -11,7 +11,7 @@ body {
     border: 2px solid white;
     border-radius: 20px;
     margin: 20px auto;
-    width: 575px;
+    max-width: 575px;
     height: 385px;
     display: flex;
     justify-content: center;
