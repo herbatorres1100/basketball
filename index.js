@@ -1,4 +1,5 @@
 let count = 0
+let count1 = 0
 let numberEl = document.getElementById("home-points")
 let numberEl2 = document.getElementById("guest-points")
 let numberEl3 = document.getElementById("home-points")
@@ -18,15 +19,15 @@ function addh3() {
 }
 
 function addg1() {
-  numberEl2.textContent = count += 1
+  numberEl2.textContent = count1 += 1
 }
 
 function addg2() {
-   numberEl2.textContent = count += 2 
+   numberEl2.textContent = count1 += 2 
 }
 
 function addg3() {
-   numberEl2.textContent = count += 3 
+   numberEl2.textContent = count1 += 3 
 }
 
 function reset() {
