@@ -3,7 +3,7 @@ body {
     padding: 0px;
     background: #1B244A;
     background-image: url("bb-court.jpeg");
-    background-image: cover;
+    background-image: contain;
     background-size: 1000px;
     background-repeat: no-repeat;
 
