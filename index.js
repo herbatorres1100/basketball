@@ -33,7 +33,6 @@ function addg3() {
 function reset() {
     numberEl3.textContent = 0
     count = 0
-    coun1 = 0
 }
 
 function reset1() {
