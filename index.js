@@ -32,4 +32,5 @@ function addg3() {
 function reset() {
     numberEl3.textContent = 0
     numberEl4.textContent = 0
+    count = 0
 }
