@@ -5,6 +5,7 @@ body {
     background-image: url("bb-court.jpeg");
     background-image: cover;
     background-size: 1000px;
+    background-repeat: no-repeat;
 
 }
 
